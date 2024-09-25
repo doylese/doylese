@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there! I'm Sean 👋
 
-<!--
-**doylese/doylese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior at Oregon State University** majoring in **Computer Science** with a passion for **Machine Learning** 🤖, **Data Science** 📊, and **Software Development** 💻. I enjoy using technology to solve real-world problems and create impactful solutions.
 
-Here are some ideas to get you started:
+### 🚀 What I Do:
+- **Software Development**: Writing clean, efficient code using **Python** 🐍, **Javascript**, and **Node.js** to build scalable applications.
+- **Data Science**: Turning data into meaningful insights 📈, leveraging **machine learning** and analytics using **Python** 🐍 and **R**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+- **Languages**: Python 🐍 | Javascript | Node.js
+- **Frameworks**: React ⚛️ | Django
+- **Tools**: SQL 🗄️ | Git 🌱 | MongoDB 🐳
+- **Skills**: Agile 🌀 | Project Management 📋 | Data Structures 🧩 | Databases
+
+---
+
+I'm always open to new opportunities and collaborations. Feel free to connect—let's create something amazing together! ✨
