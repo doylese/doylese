@@ -12,6 +12,14 @@ I'm a **Senior at Oregon State University** majoring in **Computer Science** wit
 - **Tools**: SQL 🗄️ | Git 🌱 | MongoDB 🐳
 - **Skills**: Agile 🌀 | Project Management 📋 | Data Structures 🧩 | Databases
 
+### 📂 My Projects:
+
+- [**IdeaBoard**](https://github.com/doylese/IdeaBoard)  
+  - A web-based idea management application built with React and Node.js, enabling efficient collaboration and idea sharing.
+
+- [**Microservice**](https://github.com/doylese/Microservice)  
+  - A scalable microservice architecture implemented in python, showcasing a microservice that automates the process of opening a document and bringing up the print dialog using the Ctrl+P command.
+
 ---
 
 I'm always open to new opportunities and collaborations. Feel free to connect—let's create something amazing together! ✨
