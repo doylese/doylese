@@ -22,4 +22,4 @@ I'm a **Senior at Oregon State University** majoring in **Computer Science** wit
 
 ---
 
-I'm always open to new opportunities and collaborations. Feel free to connect—let's create something amazing together! ✨
+I'm always open to new opportunities and collaborations. Feel free to connect!
