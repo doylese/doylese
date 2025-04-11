@@ -20,6 +20,15 @@ I'm a **Senior at Oregon State University** majoring in **Computer Science** wit
 - [**Microservice**](https://github.com/doylese/Microservice)  
   - A scalable microservice architecture implemented in python, showcasing a microservice that automates the process of opening a document and bringing up the print dialog using the Ctrl+P command.
 
+- **Algorithmic Trading Optimization Project**  
+  - Developed a cloud-based trading application to optimize stock trading strategies.
+  - Built using Python with the **Backtesting.py** library to validate trading strategies.
+  - Utilized **Pymoo** for performing optimization on trading parameters.
+  - Managed data storage and retrieval with an **SQL** database.
+  - Integrated interactive visualizations using **Plotly** for comprehensive data analysis.
+  - Deployed web application using **Flask** for backend APIs and **React** for a responsive front-end interface.
+  - Hosted and scaled using cloud infrastructure provided by **AWS**.
+
 ---
 
 I'm always open to new opportunities and collaborations. Feel free to connect!
