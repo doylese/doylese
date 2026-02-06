@@ -17,9 +17,6 @@ I'm a **Senior at Oregon State University** majoring in **Computer Science** wit
 - [**IdeaBoard**](https://github.com/doylese/IdeaBoard)  
   - A web-based idea management application built with React and Node.js, enabling efficient collaboration and idea sharing.
 
-- [**Microservice**](https://github.com/doylese/Microservice)  
-  - A scalable microservice architecture implemented in python, showcasing a microservice that automates the process of opening a document and bringing up the print dialog using the Ctrl+P command.
-
 - **Algorithmic Trading Optimization Project**  
   - Developed a cloud-based trading application to optimize stock trading strategies.
   - Built using Python with the **Backtesting.py** library to validate trading strategies.
